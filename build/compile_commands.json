@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/stof/openGL/proj2/build",
+  "command": "/usr/bin/gcc  -I/home/stof/openGL/proj2/include -g -o CMakeFiles/proj2.dir/src/glad.c.o -c /home/stof/openGL/proj2/src/glad.c",
+  "file": "/home/stof/openGL/proj2/src/glad.c"
+},
+{
+  "directory": "/home/stof/openGL/proj2/build",
+  "command": "/usr/bin/g++  -I/home/stof/openGL/proj2/include -g -std=gnu++11 -o CMakeFiles/proj2.dir/src/tt.cpp.o -c /home/stof/openGL/proj2/src/tt.cpp",
+  "file": "/home/stof/openGL/proj2/src/tt.cpp"
+}
+]

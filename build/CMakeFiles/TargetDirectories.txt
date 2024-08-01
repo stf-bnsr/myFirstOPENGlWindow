@@ -1,0 +1,3 @@
+/home/stof/openGL/proj2/build/CMakeFiles/proj2.dir
+/home/stof/openGL/proj2/build/CMakeFiles/edit_cache.dir
+/home/stof/openGL/proj2/build/CMakeFiles/rebuild_cache.dir
